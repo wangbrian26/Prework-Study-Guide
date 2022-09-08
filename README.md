@@ -19,14 +19,16 @@ N/A
 ## Usage
 
 In order to use this webpage, please look at the notes on the webpage. If you need an idea on what to study for the session, please open up the console using Chrome DevTools. You can open this through the following options: 
-'''
+
 
 Mac: option + command + i
-Windows: shift + CTRL + j
-Linux: shift + CTRL + j
-'''
 
-[Console](assets/images/Usage 1.png)
+Windows: shift + CTRL + j
+
+Linux: shift + CTRL + j
+
+If done correctly, it should look like the following image.
+[Console](/Users/bwang/bootcamp/prework-study-guide/assets/Images/Usage_1.png)
 
 ## Credits
 
