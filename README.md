@@ -28,7 +28,7 @@ Windows: shift + CTRL + j
 Linux: shift + CTRL + j
 
 If done correctly, it should look like the following image.
-[Console](/Users/bwang/bootcamp/prework-study-guide/assets/Images/Usage_1.png)
+[Console](./assets/Images/Usage_1.png)
 
 ## Credits
 
@@ -39,5 +39,4 @@ Lesson was provided by UCI Coding Bootcamp.
 ## License
 
 Please refer to the LICENSE in the repo.
----
 
