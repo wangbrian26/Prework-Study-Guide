@@ -37,3 +37,31 @@ myImage.onclick = () => {
     myImage.setAttribute('src', 'assets/bowtie-cat.png');
   }
 }
+
+document.getElementById("HTMLButton").onclick = () => {
+  let HTMLNotes = document.getElementById("HTMLNotes").value;
+  let List = document.createElement("li");
+  List.innerHTML = HTMLNotes
+  document.getElementById("HTML").appendChild(List);
+}
+
+document.getElementById("CSSButton").onclick = () => {
+  let CSSNotes = document.getElementById("CSSNotes").value;
+  let List = document.createElement("li");
+  List.innerHTML = CSSNotes
+  document.getElementById("CSS").appendChild(List);
+}
+
+document.getElementById("GitButton").onclick = () => {
+  let GitNotes = document.getElementById("GitNotes").value;
+  let List = document.createElement("li");
+  List.innerHTML = GitNotes
+  document.getElementById("Git").appendChild(List);
+}
+
+document.getElementById("JSButton").onclick = () => {
+  let JSNotes = document.getElementById("JSNotes").value;
+  let List = document.createElement("li");
+  List.innerHTML = JSNotes
+  document.getElementById("JS").appendChild(List);
+}

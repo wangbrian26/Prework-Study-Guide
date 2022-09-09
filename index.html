@@ -22,6 +22,10 @@
           <li>The body element represents the visible content shown to the user.</li>
           <li>H1, H2, H3, etc designate the level of the heading.</li>
           <li>ul is bullet points and ol is numbers, li is the designation under ul and ol (creates the bullet point and numbers)</li>
+          <li id="HTML"></li>
+          <label>Enter additional HTML notes:</label><br>
+          <input type="text" id="HTMLNotes"><br>
+          <button type="button" id="HTMLButton">submit</button>
         </ul>
       </section>
 
@@ -30,6 +34,10 @@
         <ul>
           <li>A margin indicates how much space we want around the outside of an element.</li>
           <li>A padding indicates how much space we want around the content inside an element.</li>
+          <li id="CSS"></li>
+          <label>Enter additional CSS notes:</label><br>
+          <input type="text" id="CSSNotes"><br>
+          <button type="button" id="CSSButton">submit</button>
         </ul>
       </section>
 
@@ -41,6 +49,10 @@
           <li>git checkout: changes to a certain branch</li>
           <li>git checkout -b branch-name: creates a new branch name and switches to it</li>
           <li>Make sure to use git checkout main and then use git pull origin main to make sure everything is up to date after committing and pushing.</li>
+          <li id="Git"></li>
+          <label>Enter additional Git notes:</label><br>
+          <input type="text" id="GitNotes"><br>
+          <button type="button" id="GitButton">submit</button>
         </ul>
       </section>
 
@@ -53,6 +65,10 @@
           <li>Alert makes a popup.</li>
           <li>() => indicates an anonymous function. This basically is just saying it is an unnamed function that just executes.</li>
           <li>Var vs. Let vs. Const = Basically variable is the old school useage. It is globally scoped or functionally scoped, depending on where it is defined. The issue with it is that we can change it in teh same scope without running into errors. Let is "block scoped", which means that it only exists within {}. So, if we say let greeter = "Hello" and then in another function {let greeter = "No"}. Then depending where we call, greeter will be "Hello" or "No". If we did this same thing with var, it will always be "No" if it meets the conditions. Const on the other hand cannot be updated or re-declared. Const is also block scoped.</li>
+          <li id="JS"></li>
+          <label>Enter additional JavaScript notes:</label><br>
+          <input type="text" id="JSNotes"><br>
+          <button type="button" id="JSButton">submit</button>
         </ul>
       </section>
 
