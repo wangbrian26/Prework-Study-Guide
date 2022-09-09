@@ -2,7 +2,7 @@
 
 ## Description
 
-This study guide was an introductory lesson on the web design workflow. I was able to use this experience to practice the basics of HTML, Git, CSS, and JavaScript. I have been a teacher for the last 3 years and I currently want to go into educational technologies to build applications that can serve students, teachers, administrators, and parents to further the field of education. This project is mainly for myself to keep track of any tips and ideas I learned while learning how to code and web design. 
+This study guide was an introductory lesson on the web design workflow. I was able to use this experience to practice the basics of HTML, Git, CSS, and JavaScript. I have been a teacher for the last 3 years and I currently want to go into educational technologies to build applications that can serve students, teachers, administrators, and parents to further the field of education. This project is mainly for myself to keep track of any tips and ideas I learned while learning how to code and web design. I am also constantly adding to it to try and practice the Git workflow as well as new HTML, CSS, and JavaScript learnings.  
 
 ## Table of Contents
 
@@ -29,6 +29,8 @@ Linux: shift + CTRL + j
 
 If done correctly, it should look like the following image.
 [Console](./assets/Images/Usage_1.png)
+
+If you click on the image at the heading, you can find a picture of me and my dog, Noki! If you click on the image of me and my dog, it will switch back to the original image. 
 
 ## Credits
 
