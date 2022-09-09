@@ -32,6 +32,8 @@ If done correctly, it should look like the following image.
 
 If you click on the image at the heading, you can find a picture of me and my dog, Noki! If you click on the image of me and my dog, it will switch back to the original image. 
 
+You can make this study guide your own! Right now I have created a way through a mix of JavaScript and HTML to allow users to insert their own notes in the different sections. However, please note that your edits will be deleted if you refresh the page. Therefore, make sure that you are keeping your own notes safe. 
+
 ## Credits
 
 N/A
